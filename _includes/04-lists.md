@@ -1,3 +1,3 @@
-:tada:
-:+1:
-:smile:
+*:tada:*
+*:+1:*
+*:smile:*
